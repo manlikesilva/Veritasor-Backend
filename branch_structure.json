@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/924-attestation-failure-handling",
+    "test/971-used-token-store-coverage"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/924-attestation-failure-handling": "main",
+    "test/971-used-token-store-coverage": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/924-attestation-failure-handling",
+    "test/971-used-token-store-coverage"
+  ]
+}
